@@ -24,12 +24,24 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="TUnmovableDataWarehouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TConstStringPool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="StringPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TUnmovableDataWarehouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TConstStringPool.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
